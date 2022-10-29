@@ -17,10 +17,10 @@ Langkah berikutnya adalah pembuatan fungsi. Ini adalah kode dan hasilnya :
 ## Dasar Pemrograman Di JavaScript
 ### Operasi dasar aritmatika
 Langkah berikutnya adalah pengenalan dasar pemrograman di javascript, berikut kode operasi dasar aritmatika dan hasilnya :
-![Gambar 6](screenshoot/ss6)
+![Gambar 6](screenshoot/ss6.png)
 ### Seleksi kondisi (if.else)
 Langkah berikutnya dalam pemrograman dasara javascript adalah seleksi kondisi atau if.else, berikut kode dan hasilnya :
-![Gambar 7](screenshoot/ss7)
+![Gambar 7](screenshoot/ss7.png)
 ### Penggunaan operator switch untuk seleksi method
 Langkah berikutnya adalah penggunaan operator switch untuk seleksi method, berikut kode dan hasilnya :
 ![Gambar 8](screenshoot/ss8)
