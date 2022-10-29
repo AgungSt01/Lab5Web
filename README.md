@@ -23,11 +23,11 @@ Langkah berikutnya dalam pemrograman dasara javascript adalah seleksi kondisi at
 ![Gambar 7](screenshoot/ss7.png)
 ### Penggunaan operator switch untuk seleksi method
 Langkah berikutnya adalah penggunaan operator switch untuk seleksi method, berikut kode dan hasilnya :
-![Gambar 8](screenshoot/ss8)
+![Gambar 8](screenshoot/ss8.png)
 ## Pembuatan Form
 ### Pembuatan Form Input
 Langkah berikutnya adalah pembuatan form input, berikut kode dan hasilnya :
-![Gambar 9](screenshoot/ss9)
+![Gambar 9](screenshoot/ss9.png)
 ### Pembuatan Form Button
 Langkah berikutnya adalah pembuatan form button, berikut kode dan hasilnya :
-![Gambar 10](screenshoot/ss10)
+![Gambar 10](screenshoot/ss10.png)
